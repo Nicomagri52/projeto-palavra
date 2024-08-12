@@ -1,1 +1,1 @@
-# projeto-palavra
+# Projeto Palavra
